@@ -1,4 +1,4 @@
 baseURL = 'https://blog.codelines.top' 
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'ZW's Blog'
 theme = "ananke"
