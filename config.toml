@@ -1,4 +1,4 @@
 baseURL = 'https://blog.codelines.top' 
 languageCode = 'en-us'
-title = 'ZW's Blog'
+title = "ZW's Blog"
 theme = "ananke"
